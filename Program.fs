@@ -1,25 +1,63 @@
-// Learn more about F# at http://docs.microsoft.com/dotnet/fsharp
-
+open FSharp.Json
+open System.Net
 open System
+open System.IO
+open System.Text.RegularExpressions
+open Newtonsoft.Json.Linq
 
-let negate x = x * -1
-let square x = x * x
-let print x = printfn "The number is: %d" x
+type Ad = { url: string }
+type ListingProps = { adList: Ad list }
+type Results = { listingProps: ListingProps }
 
-let ``square, negate, then print`` x = x |> square |> negate |> print
 
-let powAndSumList (numberList: int []) =
-    numberList
-    |> Array.map (fun number -> number * number)
-    |> Array.sum
-// Define a function to construct a message to print
-let from whom = sprintf "from %s" whom
+let fetchPage (url) =
+     WebRequest.Create(Uri(url))
+        .GetResponse()
+        .GetResponseStream() 
+        |> fun stream -> new StreamReader(stream) 
+        |> fun reader -> reader.ReadToEnd()
+
+
+let getSearchResults (term) =
+    "https://mg.olx.com.br/belo-horizonte-e-regiao?q="
+    + term
+    |> fetchPage
+
+    
+
+let getDataJson (html: string) =
+    let matches =
+        Regex.Match(html, "data-json=\"(.+)\">.+/script>")
+
+
+    let value =
+        matches.Groups.[1].Value.Replace("&quot;", "\"")
+
+    let rawObj =
+        JObject
+            .Parse(value)
+            .SelectToken "listingProps.adList"
+        |> string
+
+    JArray.Parse(rawObj).ToString()
+
+let getUrl (item) = item.url
+
+
+let getDataFromUrl (url) =
+    let page = url |> fetchPage
+    getDataJson (page)
+
+
+let getDataFromItem (item: Ad) = item |> getUrl |> getDataFromUrl
+
+let getOnlyValidResults (results: Results) =
+    results.listingProps.adList
+    |> List.map getDataFromItem
 
 [<EntryPoint>]
 let main argv =
-    let message = from "F#" // Call the function
-    printfn "Hello world %s" message
-    ``square, negate, then print`` 10
-    let doesLotsOfStuff = square >> square >> negate >> print
-    doesLotsOfStuff 10
+    "PS5" |> getSearchResults |> getDataJson |> Console.WriteLine
+
+
     0 // return an integer exit code

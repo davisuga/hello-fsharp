@@ -1,0 +1,3284 @@
+[
+  {
+    "subject": "Ps5",
+    "price": "R$ 4.500",
+    "listId": 960098098,
+    "lastBumpAgeSecs": "1569",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/53/531181588393439.jpg",
+        "originalAlt": "Ps5",
+        "thumbnail": "https://img.olx.com.br/thumbs/53/531181588393439.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-960098098",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/53/531181588393439.jpg",
+    "date": 1638808941,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Milionários (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 0,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": true
+  },
+  {
+    "subject": "Ps5 praticamente novo ",
+    "price": "R$ 4.800",
+    "listId": 964372516,
+    "lastBumpAgeSecs": "2237",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/63/639105590285155.jpg",
+        "originalAlt": "Ps5 praticamente novo ",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/639105590285155.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/63/632139834945553.jpg",
+        "originalAlt": "Ps5 praticamente novo  - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/632139834945553.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/63/631197590699463.jpg",
+        "originalAlt": "Ps5 praticamente novo  - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/631197590699463.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-praticamente-novo-964372516",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/63/639105590285155.jpg",
+    "date": 1638808273,
+    "imageCount": 3,
+    "location": "Ribeirão das Neves, Flamengo (Justinópolis)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Outros"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 1,
+    "olxPay": {
+      "enabled": true,
+      "installments": [
+        {
+          "times": 1,
+          "highlighted": null,
+          "price": {
+            "raw": 480000,
+            "label": "R$ 4800,00"
+          },
+          "fee": null
+        },
+        {
+          "times": 2,
+          "highlighted": null,
+          "price": {
+            "raw": 240000,
+            "label": "R$ 2400,00"
+          },
+          "fee": null
+        },
+        {
+          "times": 3,
+          "highlighted": null,
+          "price": {
+            "raw": 160000,
+            "label": "R$ 1600,00"
+          },
+          "fee": null
+        },
+        {
+          "times": 4,
+          "highlighted": null,
+          "price": {
+            "raw": 120000,
+            "label": "R$ 1200,00"
+          },
+          "fee": null
+        },
+        {
+          "times": 5,
+          "highlighted": null,
+          "price": {
+            "raw": 96000,
+            "label": "R$ 960,00"
+          },
+          "fee": null
+        },
+        {
+          "times": 6,
+          "highlighted": null,
+          "price": {
+            "raw": 80000,
+            "label": "R$ 800,00"
+          },
+          "fee": null
+        },
+        {
+          "times": 7,
+          "highlighted": null,
+          "price": {
+            "raw": 68571,
+            "label": "R$ 685,71"
+          },
+          "fee": null
+        },
+        {
+          "times": 8,
+          "highlighted": null,
+          "price": {
+            "raw": 60000,
+            "label": "R$ 600,00"
+          },
+          "fee": null
+        },
+        {
+          "times": 9,
+          "highlighted": null,
+          "price": {
+            "raw": 53333,
+            "label": "R$ 533,33"
+          },
+          "fee": null
+        },
+        {
+          "times": 10,
+          "highlighted": null,
+          "price": {
+            "raw": 48000,
+            "label": "R$ 480,00"
+          },
+          "fee": null
+        },
+        {
+          "times": 11,
+          "highlighted": null,
+          "price": {
+            "raw": 43636,
+            "label": "R$ 436,36"
+          },
+          "fee": null
+        },
+        {
+          "times": 12,
+          "highlighted": true,
+          "price": {
+            "raw": 40000,
+            "label": "R$ 400,00"
+          },
+          "fee": {
+            "raw": 0,
+            "label": "0,0%"
+          }
+        }
+      ]
+    },
+    "olxDelivery": {
+      "enabled": true,
+      "weight": 2
+    },
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": true
+  },
+  {
+    "isPubListingItem": true,
+    "pubType": "nativeItemOne"
+  },
+  {
+    "isPubListingItem": true,
+    "geminiPub": true
+  },
+  {
+    "subject": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física",
+    "price": null,
+    "listId": 965659633,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/67/678106357513081.jpg",
+        "originalAlt": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física",
+        "thumbnail": "https://img.olx.com.br/thumbs/67/678106357513081.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/67/676111471092441.jpg",
+        "originalAlt": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/67/676111471092441.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-novo-lacrado-na-caixa-nacional-1-ano-garantia-cartao-ate-12x-loja-fisica-965659633",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/67/678106357513081.jpg",
+    "date": 1638801403,
+    "imageCount": 2,
+    "location": "Belo Horizonte, Floresta",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Outros"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 2,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": true
+  },
+  {
+    "subject": "PS5 com leitor/digital - Lacrado com 12 meses de garantia | Entrega expressa ",
+    "price": "R$ 5.499",
+    "listId": 954153047,
+    "lastBumpAgeSecs": "11392",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": true,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/39/390179220877965.jpg",
+        "originalAlt": "PS5 com leitor/digital - Lacrado com 12 meses de garantia | Entrega expressa ",
+        "thumbnail": "https://img.olx.com.br/thumbs/39/390179220877965.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/39/399170225983197.jpg",
+        "originalAlt": "PS5 com leitor/digital - Lacrado com 12 meses de garantia | Entrega expressa  - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/39/399170225983197.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/39/392162820053885.jpg",
+        "originalAlt": "PS5 com leitor/digital - Lacrado com 12 meses de garantia | Entrega expressa  - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/39/392162820053885.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/57/570136580720391.jpg",
+        "originalAlt": "PS5 com leitor/digital - Lacrado com 12 meses de garantia | Entrega expressa  - Foto 4",
+        "thumbnail": "https://img.olx.com.br/thumbs/57/570136580720391.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/57/577190705150434.jpg",
+        "originalAlt": "PS5 com leitor/digital - Lacrado com 12 meses de garantia | Entrega expressa  - Foto 5",
+        "thumbnail": "https://img.olx.com.br/thumbs/57/577190705150434.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/39/390163945171591.jpg",
+        "originalAlt": "PS5 com leitor/digital - Lacrado com 12 meses de garantia | Entrega expressa  - Foto 6",
+        "thumbnail": "https://img.olx.com.br/thumbs/39/390163945171591.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-com-leitor-digital-lacrado-com-12-meses-de-garantia-entrega-expressa-954153047",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/39/390179220877965.jpg",
+    "date": 1638799118,
+    "imageCount": 6,
+    "location": "Belo Horizonte, Diamante (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Outros"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 3,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": true
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962446673,
+    "lastBumpAgeSecs": "19882",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/59/599142827240749.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/59/599142827240749.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-loja-fisica-bh-----962446673",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/59/599142827240749.jpg",
+    "date": 1638790628,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 4,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": true
+  },
+  {
+    "isPubListingItem": true,
+    "geminiPub": true
+  },
+  {
+    "subject": "Ps5 Midia fisica",
+    "price": "R$ 4.850",
+    "listId": 965580778,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/67/677192233995262.jpg",
+        "originalAlt": "Ps5 Midia fisica",
+        "thumbnail": "https://img.olx.com.br/thumbs/67/677192233995262.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/67/678147472350504.jpg",
+        "originalAlt": "Ps5 Midia fisica - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/67/678147472350504.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/67/679147833304197.jpg",
+        "originalAlt": "Ps5 Midia fisica - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/67/679147833304197.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/67/675179710641200.jpg",
+        "originalAlt": "Ps5 Midia fisica - Foto 4",
+        "thumbnail": "https://img.olx.com.br/thumbs/67/675179710641200.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-965580778",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/67/677192233995262.jpg",
+    "date": 1638790577,
+    "imageCount": 4,
+    "location": "Contagem, Bernardo Monteiro",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 5,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 com Leitor e Digital - O console mais desejado do Planeta - A pronta entrega!",
+    "price": "R$ 5.499",
+    "listId": 953123732,
+    "lastBumpAgeSecs": "64663",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": true,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/36/363111345020805.jpg",
+        "originalAlt": "PS5 com Leitor e Digital - O console mais desejado do Planeta - A pronta entrega!",
+        "thumbnail": "https://img.olx.com.br/thumbs/36/363111345020805.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/36/364159224689708.jpg",
+        "originalAlt": "PS5 com Leitor e Digital - O console mais desejado do Planeta - A pronta entrega! - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/36/364159224689708.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/36/368112821166956.jpg",
+        "originalAlt": "PS5 com Leitor e Digital - O console mais desejado do Planeta - A pronta entrega! - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/36/368112821166956.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/57/575175701355952.jpg",
+        "originalAlt": "PS5 com Leitor e Digital - O console mais desejado do Planeta - A pronta entrega! - Foto 4",
+        "thumbnail": "https://img.olx.com.br/thumbs/57/575175701355952.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/57/578146822608469.jpg",
+        "originalAlt": "PS5 com Leitor e Digital - O console mais desejado do Planeta - A pronta entrega! - Foto 5",
+        "thumbnail": "https://img.olx.com.br/thumbs/57/578146822608469.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/57/574169465112461.jpg",
+        "originalAlt": "PS5 com Leitor e Digital - O console mais desejado do Planeta - A pronta entrega! - Foto 6",
+        "thumbnail": "https://img.olx.com.br/thumbs/57/574169465112461.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-com-leitor-e-digital-o-console-mais-desejado-do-planeta-a-pronta-entrega-953123732",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/36/363111345020805.jpg",
+    "date": 1638745847,
+    "imageCount": 6,
+    "location": "Betim, Centro",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Outros"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 6,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962446748,
+    "lastBumpAgeSecs": "68678",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/59/591139348320132.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/59/591139348320132.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-loja-fisica-bh-----962446748",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/59/591139348320132.jpg",
+    "date": 1638741832,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 7,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 NOVO LACRADO PRONTA ENTREGA LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "price": null,
+    "listId": 958248498,
+    "lastBumpAgeSecs": "68681",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/49/496164708103914.jpg",
+        "originalAlt": "PS5 NOVO LACRADO PRONTA ENTREGA LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        "thumbnail": "https://img.olx.com.br/thumbs/49/496164708103914.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-novo-lacrado-pronta-entrega-loja-fisica-bh-----958248498",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/49/496164708103914.jpg",
+    "date": 1638741829,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 8,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 Playstation 5 - Lacrado - 1 Ano de Garantia Nacional - Zeus Games",
+    "price": null,
+    "listId": 841694296,
+    "lastBumpAgeSecs": "92648",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/61/615132615725676.jpg",
+        "originalAlt": "PS5 Playstation 5 - Lacrado - 1 Ano de Garantia Nacional - Zeus Games",
+        "thumbnail": "https://img.olx.com.br/thumbs/61/615132615725676.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-playstation-5-lacrado-1-ano-de-garantia-nacional-zeus-games-841694296",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/61/615132615725676.jpg",
+    "date": 1638717862,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Cidade Nova",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Outros"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 9,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "isPubListingItem": true,
+    "pubType": "web_listing_afs"
+  },
+  {
+    "subject": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962158504,
+    "lastBumpAgeSecs": "106366",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/58/589173466197525.jpg",
+        "originalAlt": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/58/589173466197525.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-digital-novo-lacrado-loja-fisica-bh-----962158504",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/58/589173466197525.jpg",
+    "date": 1638704144,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 10,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962395958,
+    "lastBumpAgeSecs": "106368",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/59/590183582199633.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/59/590183582199633.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-loja-fisica-bh-----962395958",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/59/590183582199633.jpg",
+    "date": 1638704142,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 11,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962395986,
+    "lastBumpAgeSecs": "155348",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/59/590159587384153.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/59/590159587384153.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-loja-fisica-bh-----962395986",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/59/590159587384153.jpg",
+    "date": 1638655162,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 12,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 lacrado",
+    "price": "R$ 4.600",
+    "listId": 949269312,
+    "lastBumpAgeSecs": "166945",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/26/269110813801436.jpg",
+        "originalAlt": "Ps5 lacrado",
+        "thumbnail": "https://img.olx.com.br/thumbs/26/269110813801436.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-lacrado-949269312",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/26/269110813801436.jpg",
+    "date": 1638643565,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Milionários (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 13,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 961910257,
+    "lastBumpAgeSecs": "169514",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/57/579104704089688.jpg",
+        "originalAlt": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/57/579104704089688.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-digital-novo-lacrado-loja-fisica-bh-----961910257",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/57/579104704089688.jpg",
+    "date": 1638640996,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 14,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 NOVO LACRADO  LOJA FÍSICA BH!!!!!!!!!!!",
+    "price": null,
+    "listId": 950294639,
+    "lastBumpAgeSecs": "177430",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/29/294175331181837.jpg",
+        "originalAlt": "PS5 NOVO LACRADO  LOJA FÍSICA BH!!!!!!!!!!!",
+        "thumbnail": "https://img.olx.com.br/thumbs/29/294175331181837.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-novo-lacrado-loja-fisica-bh---950294639",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/29/294175331181837.jpg",
+    "date": 1638633080,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 15,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 Playstation 5 Digital e com Drive - Aceitamos seu game usado na troca! Loja física",
+    "price": null,
+    "listId": 965057479,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/65/658144839958155.jpg",
+        "originalAlt": "Ps5 Playstation 5 Digital e com Drive - Aceitamos seu game usado na troca! Loja física",
+        "thumbnail": "https://img.olx.com.br/thumbs/65/658144839958155.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/65/659176718481474.jpg",
+        "originalAlt": "Ps5 Playstation 5 Digital e com Drive - Aceitamos seu game usado na troca! Loja física - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/65/659176718481474.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/65/652193830845647.jpg",
+        "originalAlt": "Ps5 Playstation 5 Digital e com Drive - Aceitamos seu game usado na troca! Loja física - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/65/652193830845647.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/65/654168235108134.jpg",
+        "originalAlt": "Ps5 Playstation 5 Digital e com Drive - Aceitamos seu game usado na troca! Loja física - Foto 4",
+        "thumbnail": "https://img.olx.com.br/thumbs/65/654168235108134.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-playstation-5-digital-e-com-drive-aceitamos-seu-game-usado-na-troca-loja-fisica-965057479",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/65/658144839958155.jpg",
+    "date": 1638617329,
+    "imageCount": 4,
+    "location": "Belo Horizonte, Glória",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 16,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!",
+    "price": null,
+    "listId": 960327013,
+    "lastBumpAgeSecs": "196173",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": true,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/54/540171341490673.jpg",
+        "originalAlt": "PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!",
+        "thumbnail": "https://img.olx.com.br/thumbs/54/540171341490673.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-digital-novo-lacrado-loja-fisica-bh----960327013",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/54/540171341490673.jpg",
+    "date": 1638614337,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 17,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física",
+    "price": null,
+    "listId": 965018369,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/65/651114118342267.jpg",
+        "originalAlt": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física",
+        "thumbnail": "https://img.olx.com.br/thumbs/65/651114118342267.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/65/659128598581694.jpg",
+        "originalAlt": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/65/659128598581694.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-novo-lacrado-na-caixa-nacional-1-ano-garantia-cartao-ate-12x-loja-fisica-965018369",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/65/651114118342267.jpg",
+    "date": 1638587711,
+    "imageCount": 2,
+    "location": "Belo Horizonte, Floresta",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Outros"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 18,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962271532,
+    "lastBumpAgeSecs": "230183",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/58/584177462623684.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/58/584177462623684.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-loja-fisica-bh-----962271532",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/58/584177462623684.jpg",
+    "date": 1638580327,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 19,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5, lacrado",
+    "price": "R$ 4.600",
+    "listId": 906100658,
+    "lastBumpAgeSecs": "239537",
+    "oldPrice": "R$ 5.300",
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/22/223137545547963.jpg",
+        "originalAlt": "Ps5, lacrado",
+        "thumbnail": "https://img.olx.com.br/thumbs/22/223137545547963.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-lacrado-906100658",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/22/223137545547963.jpg",
+    "date": 1638570973,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Milionários (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 20,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO PRONTA ENTREGA LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962396003,
+    "lastBumpAgeSecs": "243976",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": true,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/59/597157704772615.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO PRONTA ENTREGA LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/59/597157704772615.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-pronta-entrega-loja-fisica-bh-----962396003",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/59/597157704772615.jpg",
+    "date": 1638566534,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 21,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "isPubListingItem": true,
+    "pubType": "nativeItemTwo"
+  },
+  {
+    "subject": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física",
+    "price": null,
+    "listId": 964597639,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/64/643198838804253.jpg",
+        "originalAlt": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física",
+        "thumbnail": "https://img.olx.com.br/thumbs/64/643198838804253.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/64/646171353581269.jpg",
+        "originalAlt": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/64/646171353581269.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-novo-lacrado-na-caixa-nacional-1-ano-garantia-cartao-ate-12x-loja-fisica-964597639",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/64/643198838804253.jpg",
+    "date": 1638495956,
+    "imageCount": 2,
+    "location": "Belo Horizonte, Floresta",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Outros"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 22,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 NOVO LACRADO PRONTA ENTREGA LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "price": null,
+    "listId": 958248949,
+    "lastBumpAgeSecs": "314699",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/49/492146343589005.jpg",
+        "originalAlt": "PS5 NOVO LACRADO PRONTA ENTREGA LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        "thumbnail": "https://img.olx.com.br/thumbs/49/492146343589005.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-novo-lacrado-pronta-entrega-loja-fisica-bh-----958248949",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/49/492146343589005.jpg",
+    "date": 1638495811,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 23,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 NOVO LACRADO PRONTA ENTREGA LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!",
+    "price": null,
+    "listId": 958248186,
+    "lastBumpAgeSecs": "318611",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/49/494108469397163.jpg",
+        "originalAlt": "PS5 NOVO LACRADO PRONTA ENTREGA LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!",
+        "thumbnail": "https://img.olx.com.br/thumbs/49/494108469397163.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-novo-lacrado-pronta-entrega-loja-fisica-bh----958248186",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/49/494108469397163.jpg",
+    "date": 1638491899,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 24,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962446633,
+    "lastBumpAgeSecs": "328079",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/59/593187468474601.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/59/593187468474601.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-loja-fisica-bh-----962446633",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/59/593187468474601.jpg",
+    "date": 1638482431,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 25,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 mídia digital 2 controles 5200",
+    "price": "R$ 5.200",
+    "listId": 964471413,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/63/632104717842036.jpg",
+        "originalAlt": "Ps5 mídia digital 2 controles 5200",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/632104717842036.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/63/633169836365355.jpg",
+        "originalAlt": "Ps5 mídia digital 2 controles 5200 - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/633169836365355.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/63/633169953911259.jpg",
+        "originalAlt": "Ps5 mídia digital 2 controles 5200 - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/633169953911259.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-digital-2-controles-5200-964471413",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/63/632104717842036.jpg",
+    "date": 1638475797,
+    "imageCount": 3,
+    "location": "Vespasiano",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 26,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 lacrado ",
+    "price": "R$ 4.600",
+    "listId": 913390023,
+    "lastBumpAgeSecs": "342278",
+    "oldPrice": "R$ 5.010",
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/77/771128567646690.jpg",
+        "originalAlt": "Ps5 lacrado ",
+        "thumbnail": "https://img.olx.com.br/thumbs/77/771128567646690.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-lacrado-913390023",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/77/771128567646690.jpg",
+    "date": 1638468232,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Milionários (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 27,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 964352839,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/63/639171118570334.jpg",
+        "originalAlt": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/639171118570334.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-digital-novo-lacrado-loja-fisica-bh-----964352839",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/63/639171118570334.jpg",
+    "date": 1638464482,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 28,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 964352704,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/63/636160471439351.jpg",
+        "originalAlt": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/636160471439351.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-digital-novo-lacrado-loja-fisica-bh-----964352704",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/63/636160471439351.jpg",
+    "date": 1638464478,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 29,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física",
+    "price": null,
+    "listId": 964250962,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/63/634169359685606.jpg",
+        "originalAlt": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/634169359685606.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/63/633140474768250.jpg",
+        "originalAlt": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/633140474768250.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-novo-lacrado-na-caixa-nacional-1-ano-garantia-cartao-ate-12x-loja-fisica-964250962",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/63/634169359685606.jpg",
+    "date": 1638454087,
+    "imageCount": 2,
+    "location": "Belo Horizonte, Floresta",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Outros"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 30,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 Playstation 5 Digital e com Drive - Aceitamos seu game usado na troca! Loja física",
+    "price": "R$ 5.499",
+    "listId": 964183809,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/63/630178714818359.jpg",
+        "originalAlt": "Ps5 Playstation 5 Digital e com Drive - Aceitamos seu game usado na troca! Loja física",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/630178714818359.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/63/638165474953642.jpg",
+        "originalAlt": "Ps5 Playstation 5 Digital e com Drive - Aceitamos seu game usado na troca! Loja física - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/638165474953642.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/63/633140950984309.jpg",
+        "originalAlt": "Ps5 Playstation 5 Digital e com Drive - Aceitamos seu game usado na troca! Loja física - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/633140950984309.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/63/631174593862398.jpg",
+        "originalAlt": "Ps5 Playstation 5 Digital e com Drive - Aceitamos seu game usado na troca! Loja física - Foto 4",
+        "thumbnail": "https://img.olx.com.br/thumbs/63/631174593862398.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-playstation-5-digital-e-com-drive-aceitamos-seu-game-usado-na-troca-loja-fisica-964183809",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/63/630178714818359.jpg",
+    "date": 1638446455,
+    "imageCount": 4,
+    "location": "Belo Horizonte, Glória",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 31,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "isPubListingItem": true,
+    "pubType": "nativeItemFour"
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962009869,
+    "lastBumpAgeSecs": "401859",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/57/577112108132244.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/57/577112108132244.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-loja-fisica-bh-----962009869",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/57/577112108132244.jpg",
+    "date": 1638408651,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 32,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 vários jogos Troco ",
+    "price": "R$ 6.400",
+    "listId": 963995784,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/62/626125710093378.jpg",
+        "originalAlt": "Ps5 vários jogos Troco ",
+        "thumbnail": "https://img.olx.com.br/thumbs/62/626125710093378.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/62/626154839928274.jpg",
+        "originalAlt": "Ps5 vários jogos Troco  - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/62/626154839928274.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/62/629161712547137.jpg",
+        "originalAlt": "Ps5 vários jogos Troco  - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/62/629161712547137.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/62/624124599976944.jpg",
+        "originalAlt": "Ps5 vários jogos Troco  - Foto 4",
+        "thumbnail": "https://img.olx.com.br/thumbs/62/624124599976944.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/62/629182598072960.jpg",
+        "originalAlt": "Ps5 vários jogos Troco  - Foto 5",
+        "thumbnail": "https://img.olx.com.br/thumbs/62/629182598072960.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-varios-jogos-troco-963995784",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/62/626125710093378.jpg",
+    "date": 1638393508,
+    "imageCount": 5,
+    "location": "Belo Horizonte, Centro",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Outros"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 33,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 963879049,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/62/629174233311878.jpg",
+        "originalAlt": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/62/629174233311878.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-digital-novo-lacrado-loja-fisica-bh-----963879049",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/62/629174233311878.jpg",
+    "date": 1638381720,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 34,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 lacrado",
+    "price": "R$ 4.100",
+    "listId": 943585058,
+    "lastBumpAgeSecs": "444267",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/13/139157935197712.jpg",
+        "originalAlt": "Ps5 lacrado",
+        "thumbnail": "https://img.olx.com.br/thumbs/13/139157935197712.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-lacrado-943585058",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/13/139157935197712.jpg",
+    "date": 1638366243,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Milionários (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 35,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 (troco)",
+    "price": "R$ 4.450",
+    "listId": 963716014,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": "R$ 4.500",
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/62/627182591250388.jpg",
+        "originalAlt": "Ps5 (troco)",
+        "thumbnail": "https://img.olx.com.br/thumbs/62/627182591250388.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/62/623158712776873.jpg",
+        "originalAlt": "Ps5 (troco) - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/62/623158712776873.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/62/628152715062371.jpg",
+        "originalAlt": "Ps5 (troco) - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/62/628152715062371.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-troco-963716014",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/62/627182591250388.jpg",
+    "date": 1638364286,
+    "imageCount": 3,
+    "location": "Sete Lagoas, São Geraldo",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 36,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 ",
+    "price": "R$ 4.600",
+    "listId": 947319673,
+    "lastBumpAgeSecs": "451144",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/21/215181577374154.jpg",
+        "originalAlt": "Ps5 ",
+        "thumbnail": "https://img.olx.com.br/thumbs/21/215181577374154.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-947319673",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/21/215181577374154.jpg",
+    "date": 1638359366,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Milionários (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 37,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962395919,
+    "lastBumpAgeSecs": "493940",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/59/590105589982604.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/59/590105589982604.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-loja-fisica-bh-----962395919",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/59/590105589982604.jpg",
+    "date": 1638316570,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 38,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5",
+    "price": "R$ 4.600",
+    "listId": 905818179,
+    "lastBumpAgeSecs": "498660",
+    "oldPrice": "R$ 5.300",
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/75/755158442974730.jpg",
+        "originalAlt": "Ps5",
+        "thumbnail": "https://img.olx.com.br/thumbs/75/755158442974730.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-905818179",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/75/755158442974730.jpg",
+    "date": 1638311850,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Milionários (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 39,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962446691,
+    "lastBumpAgeSecs": "501761",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/59/595190468599157.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/59/595190468599157.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-loja-fisica-bh-----962446691",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/59/595190468599157.jpg",
+    "date": 1638308749,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 40,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5+jogos+1 controle.caixa,nota fiscal ",
+    "price": "R$ 5.700",
+    "listId": 963445391,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": "R$ 6.600",
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/61/617134464742483.jpg",
+        "originalAlt": "Ps5+jogos+1 controle.caixa,nota fiscal ",
+        "thumbnail": "https://img.olx.com.br/thumbs/61/617134464742483.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/61/619101223038849.jpg",
+        "originalAlt": "Ps5+jogos+1 controle.caixa,nota fiscal  - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/61/619101223038849.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/61/617112589613529.jpg",
+        "originalAlt": "Ps5+jogos+1 controle.caixa,nota fiscal  - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/61/617112589613529.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-jogos-1-controle-caixa-nota-fiscal-963445391",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/61/617134464742483.jpg",
+    "date": 1638307132,
+    "imageCount": 3,
+    "location": "Santa Luzia, Londrina (São Benedito)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Outros"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 41,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física",
+    "price": null,
+    "listId": 963212114,
+    "lastBumpAgeSecs": "0",
+    "oldPrice": null,
+    "professionalAd": false,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/61/616103707552435.jpg",
+        "originalAlt": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física",
+        "thumbnail": "https://img.olx.com.br/thumbs/61/616103707552435.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/61/614149227971279.jpg",
+        "originalAlt": "PS5 Novo Lacrado na Caixa Nacional 1 Ano Garantia - Cartão Até 12x - Loja Física - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/61/614149227971279.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/computadores-e-acessorios/ps5-novo-lacrado-na-caixa-nacional-1-ano-garantia-cartao-ate-12x-loja-fisica-963212114",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/61/616103707552435.jpg",
+    "date": 1638279669,
+    "imageCount": 2,
+    "location": "Belo Horizonte, Floresta",
+    "category": "Computadores e acessórios",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3040,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Computadores e acessórios"
+      },
+      {
+        "name": "computer_type",
+        "label": "Tipo",
+        "value": "PCs e computadores"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 42,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 lacrado ",
+    "price": "R$ 4.100",
+    "listId": 943590051,
+    "lastBumpAgeSecs": "536546",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/13/131156692750604.jpg",
+        "originalAlt": "Ps5 lacrado ",
+        "thumbnail": "https://img.olx.com.br/thumbs/13/131156692750604.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-lacrado-943590051",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/13/131156692750604.jpg",
+    "date": 1638273964,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Milionários (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 43,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "price": null,
+    "listId": 949873303,
+    "lastBumpAgeSecs": "580661",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/28/285180573163775.jpg",
+        "originalAlt": "PS5 NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        "thumbnail": "https://img.olx.com.br/thumbs/28/285180573163775.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/28/285118332047062.jpg",
+        "originalAlt": "PS5 NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!!!!! - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/28/285118332047062.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/28/281157817369133.jpg",
+        "originalAlt": "PS5 NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!!!!! - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/28/281157817369133.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/28/285192693875252.jpg",
+        "originalAlt": "PS5 NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!!!!! - Foto 4",
+        "thumbnail": "https://img.olx.com.br/thumbs/28/285192693875252.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/28/288144931857930.jpg",
+        "originalAlt": "PS5 NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!!!!! - Foto 5",
+        "thumbnail": "https://img.olx.com.br/thumbs/28/288144931857930.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-novo-lacrado-loja-fisica-bh------949873303",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/28/285180573163775.jpg",
+    "date": 1638229849,
+    "imageCount": 5,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 44,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5",
+    "price": "R$ 5.300",
+    "listId": 901199862,
+    "lastBumpAgeSecs": "599484",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/10/105188301550372.jpg",
+        "originalAlt": "Ps5",
+        "thumbnail": "https://img.olx.com.br/thumbs/10/105188301550372.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-901199862",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/10/105188301550372.jpg",
+    "date": 1638211026,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Milionários (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 45,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "Ps5 lacrado",
+    "price": "R$ 4.600",
+    "listId": 947230331,
+    "lastBumpAgeSecs": "612801",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/21/210190331773884.jpg",
+        "originalAlt": "Ps5 lacrado",
+        "thumbnail": "https://img.olx.com.br/thumbs/21/210190331773884.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-lacrado-947230331",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/21/210190331773884.jpg",
+    "date": 1638197709,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Milionários (Barreiro)",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": true
+    },
+    "position": 46,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962395966,
+    "lastBumpAgeSecs": "617264",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/59/590188222020216.jpg",
+        "originalAlt": "*PS5 MIDIA DIGITAL NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/59/590188222020216.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-digital-novo-lacrado-loja-fisica-bh-----962395966",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/59/590188222020216.jpg",
+    "date": 1638193246,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 47,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "PS5 NOVO LACRADO PRONTA ENTREGA LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!",
+    "price": null,
+    "listId": 958253966,
+    "lastBumpAgeSecs": "624527",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/49/490178941727960.jpg",
+        "originalAlt": "PS5 NOVO LACRADO PRONTA ENTREGA LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!",
+        "thumbnail": "https://img.olx.com.br/thumbs/49/490178941727960.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-novo-lacrado-pronta-entrega-loja-fisica-bh-----958253966",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/49/490178941727960.jpg",
+    "date": 1638185983,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 48,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  },
+  {
+    "subject": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+    "price": null,
+    "listId": 962446729,
+    "lastBumpAgeSecs": "624532",
+    "oldPrice": null,
+    "professionalAd": true,
+    "isFeatured": false,
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/59/599196705255822.jpg",
+        "originalAlt": "*PS5 MIDIA FÍSICA NOVO LACRADO LOJA FÍSICA BH!!!!!!!!!!!!!!!!!!!!!!!!!*",
+        "thumbnail": "https://img.olx.com.br/thumbs/59/599196705255822.jpg"
+      }
+    ],
+    "videoCount": 0,
+    "isChatEnabled": true,
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps5-midia-fisica-novo-lacrado-loja-fisica-bh-----962446729",
+    "thumbnail": "https://img.olx.com.br/thumbs256x256/59/599196705255822.jpg",
+    "date": 1638185978,
+    "imageCount": 1,
+    "location": "Belo Horizonte, Vista Alegre",
+    "category": "Videogames",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3020,
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Videogames"
+      },
+      {
+        "name": "videogame_type",
+        "label": "Tipo",
+        "value": "Consoles"
+      },
+      {
+        "name": "videogame_model",
+        "label": "Modelo",
+        "value": "Playstation 4"
+      }
+    ],
+    "accountActivityStatus": {
+      "isOnline": false
+    },
+    "position": 49,
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "tags": [],
+    "priorityAdImage": false
+  }
+]
