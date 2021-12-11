@@ -9,55 +9,57 @@ type Ad = { url: string }
 type ListingProps = { adList: Ad list }
 type Results = { listingProps: ListingProps }
 
-
-let fetchPage (url) =
-     WebRequest.Create(Uri(url))
-        .GetResponse()
-        .GetResponseStream() 
-        |> fun stream -> new StreamReader(stream) 
-        |> fun reader -> reader.ReadToEnd()
-
-
-let getSearchResults (term) =
-    "https://mg.olx.com.br/belo-horizonte-e-regiao?q="
-    + term
-    |> fetchPage
-
-    
-
-let getDataJson (html: string) =
-    let matches =
-        Regex.Match(html, "data-json=\"(.+)\">.+/script>")
+module OlxScrapper =
+    let fetchPage (url) =
+        WebRequest.Create(Uri(url))
+            .GetResponse()
+            .GetResponseStream() 
+            |> fun stream -> new StreamReader(stream) 
+            |> fun reader -> reader.ReadToEnd()
 
 
-    let value =
-        matches.Groups.[1].Value.Replace("&quot;", "\"")
+    let getSearchResults (term) =
+        "https://mg.olx.com.br/belo-horizonte-e-regiao?q="
+        + term
+        |> fetchPage
 
-    let rawObj =
-        JObject
-            .Parse(value)
-            .SelectToken "listingProps.adList"
-        |> string
+        
 
-    JArray.Parse(rawObj).ToString()
-
-let getUrl (item) = item.url
+    let getDataJson (html: string) =
+        let matches =
+            Regex.Match(html, "data-json=\"(.+)\">.+/script>")
 
 
-let getDataFromUrl (url) =
-    let page = url |> fetchPage
-    getDataJson (page)
+        let value =
+            matches.Groups.[1].Value.Replace("&quot;", "\"")
+
+        let rawObj =
+            JObject
+                .Parse(value)
+                .SelectToken "listingProps.adList"
+            |> string
+
+        JArray.Parse(rawObj).ToString()
+
+    let getUrl (item) = item.url
 
 
-let getDataFromItem (item: Ad) = item |> getUrl |> getDataFromUrl
-
-let getOnlyValidResults (results: Results) =
-    results.listingProps.adList
-    |> List.map getDataFromItem
-
-[<EntryPoint>]
-let main argv =
-    "PS5" |> getSearchResults |> getDataJson |> Console.WriteLine
+    let getDataFromUrl (url) =
+        let page = url |> fetchPage
+        getDataJson (page)
 
 
-    0 // return an integer exit code
+    let getDataFromItem (item: Ad) = item |> getUrl |> getDataFromUrl
+
+    let getOnlyValidResults (results: Results) =
+        results.listingProps.adList
+        |> List.map getDataFromItem
+
+    let searchForProduct  = getSearchResults >> getDataJson
+
+    [<EntryPoint>]
+    let main argv =
+        argv[0] |> getSearchResults |> getDataJson |> Console.WriteLine
+
+
+        0 // return an integer exit code
