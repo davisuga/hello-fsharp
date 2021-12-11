@@ -1,0 +1,239 @@
+{
+  "ad": {
+    "listId": 967906450,
+    "body": "iPhone impecável&lt;br&gt;Acompanha carregador&lt;br&gt;",
+    "subject": "iPhone 7 128gb ",
+    "priceLabel": "Preço",
+    "priceValue": "R$ 1.000",
+    "oldPrice": null,
+    "professionalAd": false,
+    "category": 3060,
+    "parentCategoryName": "Eletrônicos e celulares",
+    "categoryName": "Celulares e telefonia",
+    "searchCategoryLevelZero": 3000,
+    "searchCategoryLevelOne": 3060,
+    "searchCategoryLevelTwo": 0,
+    "origListTime": 1639227913,
+    "adReply": "0",
+    "friendlyUrl": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/iphone-7-128gb-967906450",
+    "loanSpecificData": {
+      "url": "https://emprestimos.olx.com.br/?aff=eletronicos_olx&amp;title=iPhone%207%20128gb&amp;image=/72/727173473767673.jpg&amp;price=R%24%201.000&amp;utm_source=olx&amp;utm_medium=olx&amp;utm_campaign=olx&amp;utm_content=eletronicos",
+      "acceptLoan": true
+    },
+    "user": {
+      "userId": 10989812,
+      "userUid": 9605766,
+      "name": "Samuel J",
+      "configs": { "chatEnabled": true, "proAccount": false }
+    },
+    "phone": { "phone": "", "phoneHidden": true, "phoneVerified": true },
+    "images": [
+      {
+        "original": "https://img.olx.com.br/images/72/727173473767673.jpg",
+        "originalAlt": "iPhone 7 128gb ",
+        "thumbnail": "https://img.olx.com.br/thumbs/72/727173473767673.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/72/726147719908154.jpg",
+        "originalAlt": "iPhone 7 128gb  - Foto 2",
+        "thumbnail": "https://img.olx.com.br/thumbs/72/726147719908154.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/72/726131354335929.jpg",
+        "originalAlt": "iPhone 7 128gb  - Foto 3",
+        "thumbnail": "https://img.olx.com.br/thumbs/72/726131354335929.jpg"
+      },
+      {
+        "original": "https://img.olx.com.br/images/72/725190114574222.jpg",
+        "originalAlt": "iPhone 7 128gb  - Foto 4",
+        "thumbnail": "https://img.olx.com.br/thumbs/72/725190114574222.jpg"
+      }
+    ],
+    "videos": [],
+    "location": {
+      "address": null,
+      "neighbourhood": "Chácaras Reunidas Santa Terezinha",
+      "neighbourhoodId": 44345,
+      "municipality": "Contagem",
+      "municipalityId": 9190,
+      "zipcode": "32183680",
+      "mapLati": 0,
+      "mapLong": 0,
+      "uf": "MG",
+      "ddd": "31",
+      "zoneId": 1762,
+      "zone": "grande-belo-horizonte",
+      "region": "Belo Horizonte e região, MG"
+    },
+    "properties": [
+      {
+        "name": "category",
+        "label": "Categoria",
+        "value": "Celulares e telefonia",
+        "values": null,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/grande-belo-horizonte/celulares"
+      },
+      {
+        "name": "celphone_type",
+        "label": "Tipo",
+        "value": "Apple",
+        "values": null,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/grande-belo-horizonte/celulares/iphone"
+      },
+      {
+        "name": "condition",
+        "label": "Novo/Usado",
+        "value": "Usado",
+        "values": null,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/grande-belo-horizonte/celulares/usado"
+      }
+    ],
+    "pubSpecificData": [
+      {
+        "context": "width=300,height=250",
+        "data": [
+          { "key": "appnexus_placement_id", "value": "11647424" },
+          { "key": "aol_placement_id", "value": "4349188,4349193" },
+          { "key": "criteo_zone_id", "value": "802888" }
+        ]
+      },
+      {
+        "context": "width=*,height=*",
+        "data": [
+          { "key": "afsh_channel_id", "value": "shopping_telephony_vi" },
+          { "key": "afsh_pub_id", "value": "partner-vert-pla-olx-pdp" }
+        ]
+      }
+    ],
+    "trackingSpecificData": [
+      { "key": "region", "value": "Belo Horizonte e região" }
+    ],
+    "searchboxes": [
+      {
+        "label": "Agro e indústria",
+        "link": "https://www.olx.com.br/agro-e-industria"
+      },
+      {
+        "label": "Animais de estimação",
+        "link": "https://www.olx.com.br/animais-de-estimacao"
+      },
+      {
+        "label": "Artigos infantis",
+        "link": "https://www.olx.com.br/artigos-infantis"
+      },
+      {
+        "label": "Autos e peças",
+        "link": "https://www.olx.com.br/autos-e-pecas"
+      },
+      {
+        "label": "Comércio e escritório",
+        "link": "https://www.olx.com.br/comercio-e-escritorio"
+      },
+      {
+        "label": "Eletrônicos e celulares",
+        "link": "https://www.olx.com.br/eletronicos-e-celulares"
+      },
+      {
+        "label": "Esportes e lazer",
+        "link": "https://www.olx.com.br/esportes-e-lazer"
+      },
+      { "label": "Imóveis", "link": "https://www.olx.com.br/imoveis" },
+      {
+        "label": "Moda e beleza",
+        "link": "https://www.olx.com.br/moda-e-beleza"
+      },
+      {
+        "label": "Música e hobbies",
+        "link": "https://www.olx.com.br/musica-e-hobbies"
+      },
+      {
+        "label": "Para a sua casa",
+        "link": "https://www.olx.com.br/para-a-sua-casa"
+      },
+      { "label": "Serviços", "link": "https://www.olx.com.br/servicos" },
+      {
+        "label": "Vagas de emprego",
+        "link": "https://www.olx.com.br/vagas-de-emprego"
+      }
+    ],
+    "breadcrumbUrls": [
+      { "label": "Minas Gerais", "url": "https://mg.olx.com.br" },
+      {
+        "label": "Belo Horizonte e região",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao"
+      },
+      {
+        "label": "Celulares e telefonia",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares"
+      },
+      {
+        "label": "Grande Belo Horizonte",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/grande-belo-horizonte/celulares"
+      },
+      {
+        "label": "Contagem",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/grande-belo-horizonte/contagem/celulares"
+      }
+    ],
+    "tags": null,
+    "featured": [],
+    "carSpecificData": null,
+    "realEstateSpecificData": { "showSimulatorButton": false },
+    "olxPay": null,
+    "olxDelivery": null,
+    "vehicleReport": {
+      "enabled": false,
+      "title": null,
+      "description": null,
+      "reportLink": null,
+      "reportTitle": null,
+      "tags": null
+    },
+    "description": "iPhone impecável&lt;br&gt;Acompanha carregador&lt;br&gt;",
+    "price": "R$ 1.000",
+    "listTime": "2021-12-11T13:05:13.000Z",
+    "locationProperties": [
+      { "label": "CEP", "value": "32183680" },
+      { "label": "Município", "value": "Contagem" },
+      { "label": "Bairro", "value": "Chácaras Reunidas Santa Terezinha" }
+    ],
+    "securityTips": [
+      "Não faça pagamentos antes de verificar o que está sendo anunciado.",
+      "Fique atento a preços abaixo do mercado e a excessos de facilidades.",
+      "Sempre que possível, teste as funcionalidades do aparelho."
+    ],
+    "denounceLink": "https://denuncia.olx.com.br/report?from=web&amp;data=eyJsaXN0SWQiOjk2NzkwNjQ1MCwidGl0bGUiOiJpUGhvbmUgNyAxMjhnYiAiLCJwcmljZSI6IjEwMDAifQ==",
+    "nativeVas": [
+      {
+        "text": "Simular empréstimo",
+        "url": "https://emprestimos.olx.com.br/?aff=eletronicos_olx&amp;title=iPhone%207%20128gb&amp;image=/72/727173473767673.jpg&amp;price=R%24%201.000&amp;utm_source=olx&amp;utm_medium=olx&amp;utm_campaign=olx&amp;utm_content=eletronicos",
+        "icon": {
+          "key": null,
+          "ref": null,
+          "props": { "size": "32", "color": "#9129b1" },
+          "_owner": null
+        },
+        "rel": "nofollow"
+      }
+    ],
+    "isFeatured": false,
+    "slotsId": ["adBottomLocation"]
+  },
+  "urls": {
+    "CHAT_URL": "https://m.olx.com.br/anuncio/chat?ad_id=",
+    "CARTEIRO_SERVICE_URL": "https://apigw.olx.com.br/v1/seller/email",
+    "POINTS_OF_SALE_URL": "https://pointsofsales.olx.com.br",
+    "AUTH_URL": "https://apigw.olx.com.br/auth/v1/accounts/my",
+    "AUTH_ACCESS_KEY": "kkUAvgIi7zuGcj3j18dJSjeq5nnzPv9Z",
+    "GOLLUM_URL": "https://gollum.olx.com.br/api/v1/my-precious",
+    "FAVORITES_API_URL": "https://apigw.olx.com.br/cdhv/favorite/api/v1",
+    "FAVORITES_API_SECRET": "xobt1DEOn8CblfaIFx5Ul5TNI0bKrZ0i",
+    "MY_ACCOUNTS_API_URL": "https://apigw.olx.com.br/v3/me",
+    "MY_ACCOUNTS_API_SECRET": "JJmohWcaC5OF7AZW2h9uWNvSiDapkxof",
+    "PHONE_RANGER_API_URL": "https://apigw.olx.com.br/v1/showphone",
+    "DELIVERY_API_URL": "https://delivery-quote.olx.com.br/api/v1",
+    "SENTRY_ENVIRONMENT_NAME": "adview-production"
+  },
+  "abTestGroups": "adv-adview-afsh-native_enabled.adv-adview-lazyload_enabled.adv-has-adblocker_enabled.adv-insureads_enabled.adv-monitoring_enabled.autofacil-seller_enabled.autos-financing-leads_enabled.autos-leads-similares-position_control.autos-native-vas_a.bj-adview-props-individual-fail_enabled.bj-transactional-info_enabled.cars-adview-financiable_enabled.confirmation-button-since-to-be-dispatched_enabled.delivery-new-bff_enabled.dispute-form-improved_control.financing-c2c_Enabled.financing-photo-slot_B.mes-qualtrics_enabled.mes-send-image_new.myads-historico-veicular-brasil_enabled.rec-adv-bundle-gallery_on.seller-cancel-order-more-steps_enabled.shownumber-regex-ddd-web_control.txp-adview-available-payments-info_control.unreadable-category-hide_enabled.uprNewProMiniProfile_enabled.vas-autos-card-suggestion_B.vas-financeable-btn_marketplace.vas-insurance-btn_a.vas-loan-btn_iconA.vasimo-btn-simulator_initialState.vasimo-one-page-login_disabled.vasimo-ux-improvements_enabled.vx-videos-on-adview-gallery_second-position",
+  "deviceType": "desktop"
+}

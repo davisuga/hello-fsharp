@@ -1,65 +1,79 @@
+module OlxScrapper 
+
 open FSharp.Json
 open System.Net
 open System
-open System.IO
+open FSharp.Data
 open System.Text.RegularExpressions
-open Newtonsoft.Json.Linq
+open Http
+open Hopac
 
-type Ad = { url: string }
-type ListingProps = { adList: Ad list }
-type Results = { listingProps: ListingProps }
+// type Results = { listingProps: ListingProps }
 
-module OlxScrapper =
-    let fetchPage (url) =
-        WebRequest.Create(Uri(url))
-            .GetResponse()
-            .GetResponseStream() 
-            |> fun stream -> new StreamReader(stream) 
-            |> fun reader -> reader.ReadToEnd()
+let trace (x: string) =
+    Console.WriteLine(x)
+    x
 
+[<Literal>]
+let ResolutionFolder = __SOURCE_DIRECTORY__
 
-    let getSearchResults (term) =
-        "https://mg.olx.com.br/belo-horizonte-e-regiao?q="
-        + term
-        |> fetchPage
+type Results = JsonProvider<"./results.json">
 
-        
+let unEscape (x: string) = x.Replace("&quot;", "\"")
 
-    let getDataJson (html: string) =
-        let matches =
-            Regex.Match(html, "data-json=\"(.+)\">.+/script>")
+let buildSearchUrl (term, state, region) =
+    $"https://{state}.olx.com.br/{region}?q={term}"
 
-
-        let value =
-            matches.Groups.[1].Value.Replace("&quot;", "\"")
-
-        let rawObj =
-            JObject
-                .Parse(value)
-                .SelectToken "listingProps.adList"
-            |> string
-
-        JArray.Parse(rawObj).ToString()
-
-    let getUrl (item) = item.url
+let getDataJson (html: string) =
+    Regex
+        .Match(
+            html,
+            "data-json=\"(.+&quot;})\">"
+        )
+        .Groups.[1]
+        .Value
+    |> unEscape
+    |> trace
+    
+let getUrl (item: Results.AdList) = item.Url
 
 
-    let getDataFromUrl (url) =
-        let page = url |> fetchPage
-        getDataJson (page)
+let getProductPageData (url) =
+    job {
+        let! productPage = fetchPage url
+        Console.WriteLine("Gettin data from url:")
+        Console.WriteLine(url)
+        return productPage  |> getDataJson
+    }
+
+// let optionsMap (x: 'a option list, fn: 'a -> 'b) =
+//     x |> Array.map (Option.map fn)
+let getDataFromItem =
+    getUrl
+    >> Option.map getProductPageData
+    >> Option.toArray
+
+let getOnlyValidResults (results: Results.Root) =
+    results.ListingProps.AdList
+    |> Array.map getDataFromItem
+    |> Array.concat
+    |> Job.conCollect
+    |> run
 
 
-    let getDataFromItem (item: Ad) = item |> getUrl |> getDataFromUrl
+let searchForProducts =
+    buildSearchUrl
+    >> fetchPage // Fetching search page
+    >> run
+    >> getDataJson // Getting results
+    >> Results.Parse
+    >> getOnlyValidResults // Removing ads
+    >> Console.WriteLine
 
-    let getOnlyValidResults (results: Results) =
-        results.listingProps.adList
-        |> List.map getDataFromItem
+[<EntryPoint>]
+let main argv =
 
-    let searchForProduct  = getSearchResults >> getDataJson
+    (argv[0], argv[1], argv[2])
+    |> searchForProducts
 
-    [<EntryPoint>]
-    let main argv =
-        argv[0] |> getSearchResults |> getDataJson |> Console.WriteLine
-
-
-        0 // return an integer exit code
+    0 // return an integer exit code
